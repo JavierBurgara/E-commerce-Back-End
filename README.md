@@ -1,30 +1,27 @@
 # E-commerce-Back-End
 
 ## Description
-
-## Deployed Application URL
-
+The current app is the back end for an e-commerce site.
+## Video to deployed application
+https://drive.google.com/file/d/1tfaVqgwFKYYGvTz-hcgl81xDzsWvfr_q/view
 ## Screenshot
-![Alt text](image-1.png)
+![Alt text](image.png)
 ## Table of Contents
 * [Description](#description)
-* [Features](#features)
+* [Installation](#installation)
 * [Languages & Dependencies](#languagesanddependencies)
-* [How to Use This Application](#HowtoUseThisApplication)
-* [Contributors](#contributors)
+* [Contributing](#contributing)
 * [Testing](#testing)
 * [Questions](#questions)
 *[Contact-Me](#contact-me)
-## Features
-
+## Instaallation
+You’ll need to use the MySQL2 and Sequelize packages to connect your Express.js API to a MySQL database and the dotenv package to use environment variables to store sensitive data, like MySQL username, password, and database name.
 ## Languages & Dependencies
-N/A
-## How to Use This Application:
-HTML,JavaScript,Node,Jest
-## Contributors
-None
+Express,MySql,Get routes, Api Post,Put,Delete
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 ## Testing
-
+N/A
 ## Contact-Me
   * Name - JavierBurgara
   * Email - Javierburgara150@yahoo.com

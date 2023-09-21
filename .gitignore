@@ -1,4 +1,4 @@
 .env
-package-lock.jaon
+package-lock.json
 server.js
 node_modules
